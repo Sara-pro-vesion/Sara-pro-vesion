@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 CS student & self-taught developer.<br>💻 Building web projects.<br>✨ Ambitious | Learning by doing | Building my bright future.<br>🌱 Currently exploring: js frame works . 
+🎓 CS student & self-taught developer.<br>💻 Building web solutions.<br>✨ Ambitious | Learning by doing | Building my bright future.<br>🌱 Currently exploring: node js . 
 
 
 ## 🌐 Socials:
